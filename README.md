@@ -16,6 +16,11 @@ Soy una persona resolutiva y enfocada, apasionada por encontrar soluciones efici
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
       </a>
     </td>
+    <td style="text-align: center; padding: 0 15px;">
+      <p>
+        <img url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Font_Awesome_5_solid_envelope.svg/1024px-Font_Awesome_5_solid_envelope.svg.png" alt="Email">
+        fgi.fa2@hotmail.com
+      </p>
   </tr>
 </table>
 
